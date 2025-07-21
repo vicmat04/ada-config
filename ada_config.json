@@ -1,5 +1,5 @@
 {
-  "is_under_maintenance": false,
+  "is_under_maintenance": true,
   "maintenance_message": "La aplicación está en mantenimiento.",
   "minimum_required_version": "3.0.0.0",
   "update_message": "Tu versión de A.D.A. está desactualizada."
