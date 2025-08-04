@@ -2,5 +2,5 @@
   "is_under_maintenance": false,
   "maintenance_message": "La aplicación está en mantenimiento.",
   "minimum_required_version": "3.0.0.0",
-  "update_message": "Tu versión de A.D.A. está desactualizada. <br><br>Por favor, <b><a href='https://infoplazas-my.sharepoint.com/:f:/g/personal/vdominguez_infoplazas_org_pa/EtzkQ1jqvvdPh2JTGPUUZaIBSkcGKhlfSTC0VmLka9_8HA?e=U1qnnV'>haz clic aquí para descargar la nueva versión</a></b> o contacta al Soporte de ADA."
+  "update_message": "Tu versión de A.D.A. está desactualizada. <br><br>Por favor, <b><a href='https://infoplazas-my.sharepoint.com/:f:/g/personal/vdominguez_infoplazas_org_pa/EtzkQ1jqvvdPh2JTGPUUZaIBSkcGKhlfSTC0VmLka9_8HA?e=U1qnnV'style='color: #1E88E5; text-decoration: underline;'>haz clic aquí para descargar la nueva versión</a></b> o contacta al Soporte de ADA."
 }
