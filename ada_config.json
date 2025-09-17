@@ -1,5 +1,5 @@
 {
-  "is_under_maintenance": false,
+  "is_under_maintenance": true,
   "maintenance_message": "Estamos realizando mejoras. A.D.A. volverá a estar disponible pronto.",
   "minimum_required_version": "3.1.0.0",
   "update_message": "Hay una nueva versión de A.D.A. disponible. Por favor, descarga la última versión desde el portal oficial. <br><br>Por favor, <b><a href='https://github.com/vicmat04/ada-config/releases/download/3.2/ADA_Analizador_Datos_v3_2_1.exe' style='color: #1E88E5; text-decoration: underline;'>haz clic aquí para descargar la versión 3.1</a></b> o contacta a tu Facilitador para que te asesore con ADA.",
