@@ -16,6 +16,11 @@
 
     "LAPTOP-CENTRO-03"
 
-  ]
+  ],
+
+  // Metas para el analizador de Facebook de ADA
+  "META_ORIGINALES": 15,
+  // Metas para el analizador de Facebook de ADA
+  "META_COMPARTIDAS": 15
 
 }
